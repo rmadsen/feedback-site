@@ -2844,10 +2844,10 @@ for-in@^1.0.2:
   resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
   integrity sha1-gQaNKVqBQuwKxybG4iAMMPttXoA=
 
-formulate-core@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/formulate-core/-/formulate-core-1.0.0.tgz#b4cf52a625e99d672c0c6f7c12cacfe72fe6820d"
-  integrity sha512-XDX5wgHLSmmmTdCdnNJ0jKf0+4nmuUH4ekwPk3ggGgiVWWda78xkQx1n0hl6o6wArapLiWGCpP3UFNnu6MkKmg==
+formulate-core@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/formulate-core/-/formulate-core-1.0.1.tgz#531658c69dccf3cb9e9fc9c9f6706231c744d605"
+  integrity sha512-twb37G34hXOpCJ9Bo3Wha95mMcy7OOZKEDleVHQ4HhdaxhuZtcKR1+MGdfTjzCI5ruI8fzTmYuQ+SBa4UHygxQ==
   dependencies:
     antd "^4.6.3"
     formulate-render-types "^0.1.0"
